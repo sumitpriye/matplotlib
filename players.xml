@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <Player_Name>MS Dhoni</Player_Name>
+    <IPL_Team>CSK</IPL_Team>
+    <Matches_Played>12</Matches_Played>
+    <Runs_Scored>300</Runs_Scored>
+  </row>
+  <row>
+    <index>1</index>
+    <Player_Name>Virat</Player_Name>
+    <IPL_Team>RCB</IPL_Team>
+    <Matches_Played>12</Matches_Played>
+    <Runs_Scored>350</Runs_Scored>
+  </row>
+  <row>
+    <index>2</index>
+    <Player_Name>Faf Du plesis</Player_Name>
+    <IPL_Team>RCB</IPL_Team>
+    <Matches_Played>12</Matches_Played>
+    <Runs_Scored>625</Runs_Scored>
+  </row>
+  <row>
+    <index>3</index>
+    <Player_Name>Surya</Player_Name>
+    <IPL_Team>MI</IPL_Team>
+    <Matches_Played>12</Matches_Played>
+    <Runs_Scored>575</Runs_Scored>
+  </row>
+  <row>
+    <index>4</index>
+    <Player_Name>Yashashwi</Player_Name>
+    <IPL_Team>RR</IPL_Team>
+    <Matches_Played>12</Matches_Played>
+    <Runs_Scored>600</Runs_Scored>
+  </row>
+  <row>
+    <index>5</index>
+    <Player_Name>Sanju Samson</Player_Name>
+    <IPL_Team>RR</IPL_Team>
+    <Matches_Played>12</Matches_Played>
+    <Runs_Scored>425</Runs_Scored>
+  </row>
+  <row>
+    <index>6</index>
+    <Player_Name>Shubman Gill</Player_Name>
+    <IPL_Team>GT</IPL_Team>
+    <Matches_Played>12</Matches_Played>
+    <Runs_Scored>610</Runs_Scored>
+  </row>
+</data>
